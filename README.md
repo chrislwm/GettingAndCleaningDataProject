@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 
 Course project for Coursera Data Science Specialisation "Getting and Cleaning Data" module. The aim of this project is to demonstrate the author's ability to collect, work with, and clean a data set.
 
@@ -13,7 +13,7 @@ Full description of the data set is available at the following website:
 [UCI Machine Learning Repository: Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
   
-### Repository Files 
+## Repository Files 
 
 This repository contains the following files:
 
@@ -26,7 +26,7 @@ This repository contains the following files:
 - `tidy_data.txt` : The final data set file
 
   
-### Data Set Creation
+## Data Set Creation
 
 The data set can be created using the `run_analysis.R` script. It will check whether the "UCI HAR Dataset" folder exist (assuming data set present if so) before attempting to retrieve it from the web.
 
